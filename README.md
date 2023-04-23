@@ -30,10 +30,7 @@
  
 - 🔭 I’m currently working on Android and C.
 
-- 🌐 Have a look at my <a href="https://sevbanBayir.github.io/" target="_blank">Portfolio</a>
-
 - 💬 Open for your suggestions
-
 
 <br/>
 <br/>
@@ -75,13 +72,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sevbanBayir&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
-                                                                                                                             
+ <!--                                                                                                                            
  <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Sevban Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sevbanBayir&theme=react-dark&hide_border=true" /></a>    
   
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=sevbanBayir&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
-
+-->
 ### ✍️ Random Dev Quote
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
