@@ -8,16 +8,16 @@
 - I am a tech-enthusiast, competent, well-focused Android developer👨‍💻. I am passionate about building fully functional Android Applications.
 - I am skilled in Kotlin and C. I am good in data structure and algorithms.
 - I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
+ <!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-  <!--
+ 
           <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Data+Structures+and+Algorithms;Full+Stack+Android+Developer+From+Turkiye"></a>
       </p>
-     -->  
+       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+-->
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=sevbanBayir&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
