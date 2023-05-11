@@ -1,72 +1,18 @@
+# 💫 About Me:
+I'm an Android Developer who LOVES Jetpack Compsoe
 
 
-<h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/sevban-bayir/">Sevban 💻</a>!
-</h1> 
-<h2 align="center">A passionate full-stack Android developer from Turkey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sevban-bayir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sevban-bayır) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sevbanthebuyer) 
 
-- I am a tech-enthusiast, competent, well-focused Android developer👨‍💻. I am passionate about building fully functional Android Applications.
-- I am skilled in Kotlin and C. I am good in data structure and algorithms.
-- I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
- <!--
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   <p align="center" color:"red">
- <a>
- 
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Data+Structures+and+Algorithms;Full+Stack+Android+Developer+From+Turkiye"></a>
-      </p>
-       
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
--->
- 
-  💫 About Me:
- 
-- 🔭 I’m currently working on Android and C.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sevbanBayir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sevbanBayir&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sevbanBayir&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 💬 Open for your suggestions
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sevbanBayir&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br/>
-<br/>
-
-
-# 🥇 Technical Skills:
-<!--
- <div align="center"><h3 align="center">Frontend</h3>
-
-  
-</div>
- <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
-
- </div>
-  
-  <div align="center"><h3 align="center">Tools</h3> 
-
-  </div>
--->
-
-## 📊 Statistics  
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sevbanBayir&theme=2077" width="46%" />
-  <br/>
-  <br/>
-    <br/>
-  <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=sevbanBayir&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
-</div>
-<br/>
-<br/>
-
-<div>
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sevbanBayir&theme=2077" width="45%" />
-</div>
-<br/>
-<div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sevbanBayir&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
- <!--                                                                                                                            
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Sevban Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sevbanBayir&theme=react-dark&hide_border=true" /></a>    
-  
-  <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=sevbanBayir&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
