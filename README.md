@@ -58,7 +58,6 @@
 <br/>
 
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevbanBayir&theme=2077" width="45%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sevbanBayir&theme=2077" width="45%" />
 </div>
 <br/>
