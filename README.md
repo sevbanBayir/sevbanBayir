@@ -18,12 +18,6 @@
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 -->
-
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=sevbanBayir&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/sevbanBayir?label=Followers&style=social" alt="followers-count"> 
-</p>
-
  
   💫 About Me:
  
