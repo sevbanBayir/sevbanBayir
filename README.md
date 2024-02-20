@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sevban</h1>
+
 <h3 align="center">I'm Sevban, an Android developer based in Turkey with a passion for crafting elegant and efficient mobile experiences. My journey in the world of Android development has been fueled by a deep fascination with emerging technologies, particularly Jetpack Compose.</h3>
 
 - 📫 How to reach me **sevbanbuyer@gmail.com**
