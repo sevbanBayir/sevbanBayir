@@ -5,10 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Better Debugging Quality in Android Development](https://medium.com/@sevbanbuyer/better-debugging-quality-in-android-development-4dda79483225?source=rss-9068688d7005------2)
 - [Context in Android](https://medium.com/@sevbanbuyer/context-in-android-97eda93dc777?source=rss-9068688d7005------2)
 - [Let’s Stretch with Kotlin Generics](https://medium.com/@sevbanbuyer/lets-stretch-with-kotlin-generics-d721dad9e012?source=rss-9068688d7005------2)
 - [Inline Functions in Kotlin](https://medium.com/@sevbanbuyer/inline-functions-in-kotlin-f26dd324b770?source=rss-9068688d7005------2)
-- [Activity Lifecycle in Android: Do’s and Dont’s](https://medium.com/@sevbanbuyer/activity-lifecycle-in-android-dos-and-dont-s-3881828febec?source=rss-9068688d7005------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
