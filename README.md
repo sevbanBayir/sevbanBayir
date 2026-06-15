@@ -5,10 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing StateFlows Built with stateIn: The Conflation Problem Nobody Warns You About](https://medium.com/dogus-tech-digital-solutions/testing-stateflows-built-with-statein-the-conflation-problem-nobody-warns-you-about-4268fb605ebc?source=rss-9068688d7005------2)
 - [Why Is There No Main Function in Android?](https://medium.com/@sevbanbuyer/why-is-there-no-main-function-in-android-1198032a5a15?source=rss-9068688d7005------2)
 - [Better Debugging Quality in Android Development](https://medium.com/@sevbanbuyer/better-debugging-quality-in-android-development-4dda79483225?source=rss-9068688d7005------2)
 - [Context in Android](https://medium.com/@sevbanbuyer/context-in-android-97eda93dc777?source=rss-9068688d7005------2)
-- [Let’s Stretch with Kotlin Generics](https://medium.com/@sevbanbuyer/lets-stretch-with-kotlin-generics-d721dad9e012?source=rss-9068688d7005------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
